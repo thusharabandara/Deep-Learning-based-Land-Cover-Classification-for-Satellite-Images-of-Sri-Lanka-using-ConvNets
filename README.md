@@ -10,4 +10,4 @@
 - Prabhath Ganegoda
 
 ## Objectives
-1. Classify the land cover of satelite images
+1.Classify the land cover of satelite images
