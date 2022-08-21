@@ -3,7 +3,7 @@
 ## Group Members
 
 - Sathira Hettiarachchi
-- Chamila Darshana
+- Chamila Nuwan Darshana
 - Atula Bulathgama
 - Praneeth Wijetunga
 - Ranga Wijesekara
