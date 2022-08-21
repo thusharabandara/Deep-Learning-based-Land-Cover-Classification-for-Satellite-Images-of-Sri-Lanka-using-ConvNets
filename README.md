@@ -7,7 +7,7 @@
 - Atula Bulathgama
 - Praneeth Wijetunga
 - Ranga Wijesekara
-- Prabhath Ganegoda
+- Prabhath Madushanka Ganegoda
 
 ## Objectives
 1. Classify the land cover of satelite images
