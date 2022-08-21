@@ -13,3 +13,6 @@
 - Classify the land cover of satelite images 
 
 ## Technologies Using
+- Google Colab
+- TensorFlow 
+
