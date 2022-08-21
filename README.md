@@ -10,4 +10,4 @@ Ranga Wijesekara
 Prabhath Ganegoda
 
 # Objectives
-1.Clasify the land coverof stelite images
+1.Clasify the land cover of stelite images
