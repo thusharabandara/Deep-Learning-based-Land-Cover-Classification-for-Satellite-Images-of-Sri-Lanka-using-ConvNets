@@ -10,4 +10,4 @@ Ranga Wijesekara
 Prabhath Ganegoda
 
 # Objectives
-1.Clasify the land cover of stelite images
+1. Classify the land cover of satelite images
