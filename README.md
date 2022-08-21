@@ -9,5 +9,7 @@
 - Ranga Wijesekara
 - Prabhath Ganegoda
 
-## Objectives
-1. Classify the land cover of satelite images
+## Main Objective  of the Project
+- Classify the land cover of satelite images 
+
+## Technologies Using
