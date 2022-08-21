@@ -9,10 +9,16 @@
 - Ranga Wijesekara
 - Prabhath Ganegoda
 
+## Land Cover ?
+
+Landcover is a physical characteristics of the earth surface. Eq. Grass, building, tress, corn fields, concrete highways, bare soil, water, etc.. . In this Project, we will be classifying the land cover for three classes such as Urban Area, Vegetation, and Water Area
+
+
 ## Main Objective  of the Project
 - Classify the land cover of satelite images 
 
 ## Technologies Using
 - Google Colab
 - TensorFlow 
+
 
