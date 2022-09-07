@@ -9,7 +9,7 @@
 - Ranga Wijesekara
 - Prabhath Ganegoda
 
-## Land Cover ?
+## what is Land Cover ?
 
 Landcover is a physical characteristics of the earth surface. Eq. Grass, building, tress, corn fields, concrete highways, bare soil, water, etc.. . In this Project, we will be classifying the land cover for three classes such as Urban Area, Vegetation, and Water Area
 
