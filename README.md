@@ -20,5 +20,6 @@ Landcover is a physical characteristics of the earth surface. Eq. Grass, buildin
 ## Technologies Using
 - Google Colab
 - TensorFlow 
+- keras
 
 
