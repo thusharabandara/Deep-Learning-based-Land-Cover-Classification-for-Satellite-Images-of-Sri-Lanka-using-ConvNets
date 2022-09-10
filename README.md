@@ -8,6 +8,7 @@
 - Praneeth Wijetunga
 - Ranga Wijesekara
 - Prabhath Ganegoda
+- Dhammika Rathnayaka
 
 ## what is Land Cover ?
 
